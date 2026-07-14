@@ -1,0 +1,12 @@
+{
+  "name": "pedido-ai",
+  "version": "1.0.0",
+  "description": "Projeto utilizando GitHub Copilot e GitHub Actions",
+  "main": "src/pedido.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
